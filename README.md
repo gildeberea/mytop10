@@ -7,5 +7,8 @@ Pasos:
 
 Instalar mongodb. En principio para el puerto por defecto (27017). No es necesario crear la base de datos, la gestionará y creará el 
    servicio (el servicio creará la base de datos mytop10 en tu local si lo necesita). 
-Iniciar el proyecto: java -jar mytop10-1.0.0.jar
+   
+Iniciar el proyecto: java -jar mytop10-1.0.0.jar (el jar se encuentra en la carpeta target, por ahora si quieres lo coges de ahí y ya lo borraremos del repositorio)
+
 Acceder a localhost:8080/swagger-ui.html y ahi apareceran las descripciones de los endpoints.
+
